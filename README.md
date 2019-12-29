@@ -23,8 +23,4 @@ author: Arkady Ilin
 
 3.8) run cells in curve_plotter.ipynb and witness results ... FINISH
 
-In case of problems with running the code please contact me by:
-
-Telegram: @HelloAI
-
-mail: arkady_ilin@mail.ru
+In case of problems with running the code please contact me
